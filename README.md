@@ -1,4 +1,4 @@
-# QTM 350 - Data Science Computing
+# DATASCI 350 - Data Science Computing
 
 ## Quiz 02: Creating a Website with Quarto and GitHub Pages
 
